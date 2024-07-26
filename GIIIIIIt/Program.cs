@@ -8,6 +8,9 @@
             //Q1
             Console.WriteLine("Hello, Q1");
 
+            //q2 
+            Console.WriteLine("Hello, World!");
+
 
         }
     }
